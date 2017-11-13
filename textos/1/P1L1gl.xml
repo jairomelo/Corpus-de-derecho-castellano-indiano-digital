@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+  <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Primera partida, Libro primero</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Bayerische StaatsBibliothek </publisher>
+        <availability>
+          <p>This digital copy is licensed under: Out of copyright - non commercial re-use (OOC-NC)
+            (http://www.europeana.eu/portal/rights/out-of-copyright-non-commercial.html/)</p>
+        </availability>
+        <ptr
+          target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11304365-2"
+        />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">Las Siete Partidas del Sabio Rey don Alonso el Nono, nuevamente glosadas </title>
+          <author>por el Licenciado Gregorio Lopez <affiliation>del Consejo Real de Indias de Su
+              Magestad.</affiliation></author><title type="subtitle">Con su repertorio muy copioso,
+            assi del Testo como de la glosa.</title>
+          <pubPlace>Salamanca</pubPlace>
+          <publisher>En casa de Domingo de Portonariis Ursino, <affiliation>Impresor de la Sacra
+              Real Magestad</affiliation></publisher>
+          <date>1576</date>. </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div type="prologo" xml:id="p1">
+        <p>Aqui comiença la primera partida, que fabla de todas las cosas que pertenescen a la de
+          Catholica, que gazeal ome conoscer a Dios por creencia.</p>
+      </div>
+    </front>
+    <body>
+      <div n="1.1.1" type="ley" xml:id="GLp1t1">
+
+        <div type="titulo" xml:id="titGLp1t1">
+          <p>Título primero, que fabla de las leyes, e por quantas razones es este libro partido por
+            titulos e, en que manera.</p>
+        </div>
+        <div type="prologo" xml:id="prGLp1t1">
+          <p>A servicio de <name type="deity" xml:id="Dios">Dios</name>, e pro comunal de las gentes
+            fazemos este libro, segun que mostramos en el comienço del. E partimoslo en siete
+            partes, en la manera que diximos de suso porque los que lo leyessen, fallassen ay todas
+            las cosas cumplidas, e ciertas, para aprovechar dellas. E departimos cada una partida
+            por titulos, que quiere tanto dezir, como suma de las razones: que son mostradas en el.
+            E estas razones en que se muestran todas las cosas cumplidamente segun son, e el
+            entendimiento que han son llamadas leyes. Mas porque las gentes latinas llaman leyes a
+            las creencias que han los omes: e cuydarian algunos que estas deste libro no fablan de
+            otra cosa, sino de aquello tan solamente. Por ende nos por sacarlos desta dubda,
+            queremos les fazer entender. Que leyes son estas. E en quantas manera se departen, e
+            porque han assi nombre. E quales son las virtudes, e fuerças dellas. E de que lugares
+            fueron tomadas, e sacadas. E quales dellas pertenescen a la creencia de nuestro señor
+              <name type="deity" xml:id="Jesucristo">Iesu Christo</name>. E quales pertenescen al
+            governamiento de las gentes. E porque han nombre <span type="norma" xml:id="ley"
+              >leyes</span>. E quales deven ser en si mismas. E <span type="iurisdictio">como deven
+              ser fechas</span>. E a que tiene pro. <span type="iurisdictio">E qual deve ser el
+              fazedor dellas</span>. E quien ha <span type="iurisdictio">poderde las fazer</span>. E
+            como se deven entender. E quien las puede paladinar, e fazer que las entiendan, quando
+            alguna duda y oviere. E en que manera las deven <span type="poder">obedecer</span>. E
+            como son tenudos de las de guardar. E como se deven juzgar por ellas. E en que manera
+            deven ayuntar con estas las que fizieron de nuevo. E por quales razones non se queden
+            escusar los omes del juyzio de las leyes, por dezir que no las saben. E quales son
+            aquellos que pueden ser escusados de non recebir la pena que las leyes mandan, maguer
+            non las sepan. </p>
+        </div>
+        <div type="titulo" xml:id="titGLp1t1l1">
+          <p>Ley primera, Que leyes son estas.</p>
+        </div>
+        <div type="leytxt" xml:id="txtGLp1t1l1">
+          <p>Estas leyes son <term xml:id="glossGLp1t1l1a" rend="sc"> establecimientos </term>,
+            porque los omes sepan <term xml:id="glossGLp1t1l1b" rend="sc"> bivir bien </term>, e
+            ordenadamente, segun el plazer de Dios: e otrosi segund conviene <term
+              xml:id="glossGLp1t1l1c" rend="sc"> a la buena vida </term> deste mundo, e a guardar la
+            fe de nuestro Señor Iesu Christo cumplidamente, assi como ella es. Otrosi como bivian
+            los omes unos con otros en derecho, e en justicia: segun adelante se muestra en las
+            leyes, que fablan en cada una destas razones. E las que señaladamente pertenescen a la
+            creencia, segun ordenamiento de santa yglesia, pusimos en la primera partida deste
+            libro. E las otras que fablan del mantenimiento de las gentes, son puestas en las seys
+            partidas que le siguen despues.</p>
+        </div>
+        <div type="glosa" xml:id="glossGLp1t1l1">
+          <p xml:lang="latin"><gloss> Titulos primus De legibus. Lex prima. Statutae sunt leges
+              istae, ut inter hominesius &amp; iustiti seruetur. h. d.</gloss></p>
+          <p xml:lang="latin"><gloss target="#glossGLp1t1l1a">1 a [Establecimientos] Non ponitur hic
+              legis diffinitio, de qua infra eodem. l.4. sed ponuntur causae quare conduntur leges,
+              &amp; concordar cum l. 2. ff. eodem.</gloss></p>
+          <p xml:lang="latin"><gloss target="#glossGLp1t1l1b">2 b [Bivir bien] Est enim lex oim
+              divinarum, &amp; humanarum rerum notitia, regula, iustorum &amp; iniustorum
+              praeceptrix faciendorum, p hibitrix non faciendorum: ut in dicta. l. secunda. ad
+              fin.</gloss></p>
+          <p xml:lang="latin"><gloss target="#glossGLp1t1l1c">3 c [A la buena vida] Dicit
+              philosophus. 9. Ethicorum, plegalia iusta dicimus factiva, &amp; conservativa
+              foelicitatis, &amp; particularium ipsius, politica communicatione.</gloss></p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
